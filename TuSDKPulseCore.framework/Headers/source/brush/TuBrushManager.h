@@ -3,7 +3,7 @@
 //  Mosaic
 //
 //  Created by Yanlin on 10/26/15.
-//  Copyright © 2015 upyun. All rights reserved.
+//  Copyright © 2015 TuSDK. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

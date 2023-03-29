@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Yanlin on 3/22/16.
-//  Copyright © 2016 upyun. All rights reserved.
+//  Copyright © 2016 TuSDK. All rights reserved.
 //
 
 #import "SLGPUImage.h"

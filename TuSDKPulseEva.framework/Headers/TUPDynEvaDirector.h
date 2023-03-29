@@ -3,7 +3,7 @@
 //  TuSDKPulseEva
 //
 //  Created by 言有理 on 2022/4/11.
-//  Copyright © 2022 upyun.com. All rights reserved.
+//  Copyright © 2022 tusdk.com. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

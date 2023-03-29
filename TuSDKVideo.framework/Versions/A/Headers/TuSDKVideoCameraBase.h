@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Yanlin on 2/3/16.
-//  Copyright © 2016 upyun.com. All rights reserved.
+//  Copyright © 2016 tusdk.com. All rights reserved.
 //
 
 //#import <GPUImage/GPUImage.h>

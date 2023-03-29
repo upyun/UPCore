@@ -33,7 +33,7 @@ extern NSString * const lsqPulseFilterSampleExtension;
 
 /**
  *  TuSDK 核心
- *  @see- /image/api-core/Classes/TuSDK.html
+ *  @see-https://tutucloud.com/docs/ios/image/api-core/Classes/TuSDK.html
  *
  *  内部集成滤镜列表(17):
  *  Normal, Artistic, Brilliant, Cheerful, Clear, Fade, Forest, Gloss,
@@ -98,13 +98,13 @@ typedef NS_ENUM(NSInteger, TuLogLevel)
 /**
  *  初始化SDK
  *
- *  @param appkey 应用秘钥 (请联系商务申请秘钥)
+ *  @param appkey 应用秘钥 (请前往 https://tutucloud.com 申请秘钥)
  */
 + (void)initSdkWithAppKey:(NSString *)appkey;
 /**
  *  初始化SDK
  *
- *  @param appkey 应用秘钥 (请联系商务申请秘钥)
+ *  @param appkey 应用秘钥 (请前往 https://tutucloud.com 申请秘钥)
  *  @param specialKey md5加密字段
  */
 + (void)initSdkWithAppKey:(NSString *)appkey specialKey:(NSString *)specialKey;
@@ -112,7 +112,7 @@ typedef NS_ENUM(NSInteger, TuLogLevel)
 /**
  *  初始化SDK
  *
- *  @param appkey 应用秘钥 (请联系商务申请秘钥)
+ *  @param appkey 应用秘钥 (请前往 https://tutucloud.com 申请秘钥)
  *  @param devType 开发模式(需要与lsq_tusdk_configs.json中masters.key匹配， 如果找不到devType将默认读取master字段)
  *  @param specialKey md5加密字段
  */
@@ -167,7 +167,7 @@ typedef NS_ENUM(NSInteger, TuLogLevel)
 
 /**
  *  贴纸管理器
- *  @see- /image/api-core/Classes/TuStickerLocalPackage.html
+ *  @see-https://tutucloud.com/docs/ios/image/api-core/Classes/TuStickerLocalPackage.html
  *
  *  @return stickerManager 贴纸管理器
  */

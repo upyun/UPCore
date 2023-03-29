@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by gh.li on 2017/7/26.
-//  Copyright © 2017年 upyun.com. All rights reserved.
+//  Copyright © 2017年 tusdk.com. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

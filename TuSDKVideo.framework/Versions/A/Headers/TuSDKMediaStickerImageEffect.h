@@ -3,7 +3,7 @@
 //  TuSDKVideo
 //
 //  Created by sprint on 2019/2/26.
-//  Copyright © 2019 upyun. All rights reserved.
+//  Copyright © 2019 TuSDK. All rights reserved.
 //
 
 #import "TuSDKMediaEffectCore.h"

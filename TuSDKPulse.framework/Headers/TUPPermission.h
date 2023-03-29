@@ -3,7 +3,7 @@
 //  TuSDKPulse
 //
 //  Created by Zoeric on 2021/01/26.
-//  Copyright © 2021 upyun.com. All rights reserved.
+//  Copyright © 2021 tusdk.com. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Clear Hu on 14/10/27.
-//  Copyright (c) 2014年 upyun.com. All rights reserved.
+//  Copyright (c) 2014年 tusdk.com. All rights reserved.
 //
 
 #import "SLGPUImage.h"

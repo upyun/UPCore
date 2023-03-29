@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by wen on 10/11/2017.
-//  Copyright © 2017 upyun.com. All rights reserved.
+//  Copyright © 2017 tusdk.com. All rights reserved.
 //
 
 #import "TuSDKGPUBaseView.h"

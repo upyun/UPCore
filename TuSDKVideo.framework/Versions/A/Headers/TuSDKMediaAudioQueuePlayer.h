@@ -3,7 +3,7 @@
 //  TuSDKVideo
 //
 //  Created by sprint on 2018/6/4.
-//  Copyright © 2018年 upyun. All rights reserved.
+//  Copyright © 2018年 TuSDK. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -21,7 +21,7 @@
 //  TuSDKVideo
 //
 //  Created by sprint on 31/05/2018.
-//  Copyright © 2018 upyun. All rights reserved.
+//  Copyright © 2018 TuSDK. All rights reserved.
 //  @since  v3.0
 //
 @interface TuSDKMediaAudioQueuePlayer : NSObject <TuSDKMediaAudioBufferPlayer,TuSDKAudioPitchEngineDelegate , TuSDKAudioResampleEngineDelegate>

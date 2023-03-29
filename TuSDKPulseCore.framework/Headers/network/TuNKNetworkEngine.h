@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Clear Hu on 15/2/4.
-//  Copyright (c) 2015年 upyun.com. All rights reserved.
+//  Copyright (c) 2015年 tusdk.com. All rights reserved.
 //
 
 #import <TuSDKPulseCore/TuNetworkEngine.h>
@@ -11,12 +11,12 @@
 /**
  *  是否为调试模式
  */
-extern BOOL const lsqTuNKNetworkEngineDebug;
+extern BOOL const lsqTuSDKNKNetworkEngineDebug;
 
-extern NSString* const lsqTuNKNetworkEngineHeadrSDKTypeImage;
-extern NSString* const lsqTuNKNetworkEngineHeadrSDKTypeVideo;
-extern NSString* const lsqTuNKNetworkEngineHeadrSDKTypeEva;
-extern NSString* const lsqTuNKNetworkEngineHeadrSDKTypeFaceFuse;
+extern NSString* const lsqTuSDKNKNetworkEngineHeadrSDKTypeImage;
+extern NSString* const lsqTuSDKNKNetworkEngineHeadrSDKTypeVideo;
+extern NSString* const lsqTuSDKNKNetworkEngineHeadrSDKTypeEva;
+extern NSString* const lsqTuSDKNKNetworkEngineHeadrSDKTypeFaceFuse;
 
 
 /**

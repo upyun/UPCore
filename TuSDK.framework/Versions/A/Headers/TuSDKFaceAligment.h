@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Yanlin Qiu on 21/08/2017.
-//  Copyright © 2017 upyun.com. All rights reserved.
+//  Copyright © 2017 tusdk.com. All rights reserved.
 //
 #import <UIKit/UIKit.h>
 

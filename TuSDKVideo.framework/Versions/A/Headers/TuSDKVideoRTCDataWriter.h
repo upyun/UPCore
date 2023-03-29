@@ -3,7 +3,7 @@
 //  TuSDKVideo
 //
 //  Created by Yanlin on 8/23/16.
-//  Copyright © 2016 upyun. All rights reserved.
+//  Copyright © 2016 TuSDK. All rights reserved.
 //
 
 #import "TuSDKVideoRawDataWriter.h"

@@ -33,7 +33,7 @@
 #define TUSDKNETWORKCACHE_DEFAULT_COST 10
 #define TUSDKNETWORKCACHE_DEFAULT_DIRECTORY @"TuSdkCache"
 
-extern NSString *const kTuNetworkEngineOperationCountChanged;
+extern NSString *const kTuSDKNetworkEngineOperationCountChanged;
 #if TARGET_OS_IPHONE
 typedef void (^LSQNKImageBlock) (UIImage* fetchedImage, NSURL* url, BOOL isInCache);
 #elif TARGET_OS_MAC

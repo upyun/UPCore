@@ -3,17 +3,17 @@
 //  TuSDK
 //
 //  Created by Clear Hu on 15/10/10.
-//  Copyright © 2015年 upyun.com. All rights reserved.
+//  Copyright © 2015年 tusdk.com. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 #import <Photos/Photos.h>
 #import <TuSDKPulseCore/TUCProtocol.h>
-#pragma mark - TuTSPHCachingImageManager
+#pragma mark - TuSDKTSPHCachingImageManager
 /**
  *  相册图片缓存管理器
  */
-@interface TuTSPHCachingImageManager : PHCachingImageManager
+@interface TuSDKTSPHCachingImageManager : PHCachingImageManager
 /**
  *  相册图片缓存管理器单例对象
  *
@@ -44,7 +44,7 @@
  *
  *  @param groups 系统相册组列表
  */
-typedef void (^TuTSPHAssetCollectionGroupsBlock)(NSArray<PHAssetCollection *> *groups);
+typedef void (^TuSDKTSPHAssetCollectionGroupsBlock)(NSArray<PHAssetCollection *> *groups);
 
 /**
  *  系统相册组
@@ -133,11 +133,11 @@ typedef void (^TuSDKTSPHPhotoLibrarySaveWithImageCompletionBlock)(PHAsset *asset
        completionBlock:(TuSDKTSPHPhotoLibrarySaveWithImageCompletionBlock)completionBlock;
 
 @end
-#pragma mark - TuTSPHAsset
+#pragma mark - TuSDKTSPHAsset
 /**
  *  媒体资源对象
  */
-@interface TuTSPHAsset : NSObject<TuTSAssetInterface>
+@interface TuSDKTSPHAsset : NSObject<TuTSAssetInterface>
 /**
  *  初始化媒体资源对象
  *
@@ -154,11 +154,11 @@ typedef void (^TuSDKTSPHPhotoLibrarySaveWithImageCompletionBlock)(PHAsset *asset
 
 @end
 
-#pragma mark - TuTSPHAssetsGroup
+#pragma mark - TuSDKTSPHAssetsGroup
 /**
  *  媒体资源组对象
  */
-@interface TuTSPHAssetsGroup : NSObject<TuTSAssetsGroupInterface>
+@interface TuSDKTSPHAssetsGroup : NSObject<TuTSAssetsGroupInterface>
 /**
  *  初始化媒体资源组对象
  *

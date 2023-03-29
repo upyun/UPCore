@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Clear Hu on 2017/11/19.
-//  Copyright © 2017年 upyun.com. All rights reserved.
+//  Copyright © 2017年 tusdk.com. All rights reserved.
 //
 
 #import "TuSDKFilterWrap.h"

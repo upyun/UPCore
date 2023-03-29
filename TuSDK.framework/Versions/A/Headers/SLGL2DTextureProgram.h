@@ -3,7 +3,7 @@
 //  TuSDKVideo
 //
 //  Created by sprint on 2018/12/13.
-//  Copyright © 2018 upyun. All rights reserved.
+//  Copyright © 2018 TuSDK. All rights reserved.
 //
 
 #import "SLGLProgram.h"

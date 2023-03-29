@@ -4,7 +4,7 @@
 //  TuSDKVideo
 //
 //  Created by sprint on 09/05/2018.
-//  Copyright © 2018 upyun. All rights reserved.
+//  Copyright © 2018 TuSDK. All rights reserved.
 //
 
 #ifndef TuSDKOpenGLAssistant_h

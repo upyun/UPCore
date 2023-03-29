@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Clear Hu on 14/11/1.
-//  Copyright (c) 2014年 upyun.com. All rights reserved.
+//  Copyright (c) 2014年 tusdk.com. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -12,21 +12,21 @@
 /**
  *  状态栏高度
  */
-extern CGFloat const tu_STATES_BAR_HEIGHT;
+extern CGFloat const lsq_STATES_BAR_HEIGHT;
 /**
  *  iPhoneX系列状态栏高度
  */
-extern CGFloat const tu_STATES_BAR_HEIGHT_iPhoneX;
+extern CGFloat const lsq_STATES_BAR_HEIGHT_iPhoneX;
 
 /**
  *  导航栏高度
  */
-extern CGFloat const tu_NAV_BAR_HEIGHT;
+extern CGFloat const lsq_NAV_BAR_HEIGHT;
 
 /**
  *  TAB栏高度
  */
-extern CGFloat const tu_TAB_BAR_HEIGHT;
+extern CGFloat const lsq_TAB_BAR_HEIGHT;
 
 
 #pragma mark - TuSDKTSScreenExtend
@@ -152,6 +152,13 @@ extern CGFloat const tu_TAB_BAR_HEIGHT;
  *  @return 是否为Retina屏幕
  */
 + (BOOL) hasRetinaDisplay;
+
+/**
+ * 状态栏高度
+ * @return 获取状态栏高度
+ */
++ (CGFloat)lsqStatusBarHeight;
+
 @end
 
 #ifndef TuSDKTSScreenExtend_Define

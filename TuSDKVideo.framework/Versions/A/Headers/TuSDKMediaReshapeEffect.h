@@ -2,8 +2,8 @@
 //  TuSDKMediaReshapeEffectV2.h
 //  TuSDKVideo
 //
-//  Created by upyun on 2020/12/28.
-//  Copyright © 2020 upyun. All rights reserved.
+//  Created by tusdk on 2020/12/28.
+//  Copyright © 2020 TuSDK. All rights reserved.
 //
 
 #import "TuSDKMediaEffectCore.h"

@@ -3,7 +3,7 @@
 //  TuSDKPulse
 //
 //  Created by tutu on 2020/11/17.
-//  Copyright © 2020 upyun.com. All rights reserved.
+//  Copyright © 2020 tusdk.com. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

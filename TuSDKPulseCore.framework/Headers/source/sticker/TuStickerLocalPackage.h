@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Clear Hu on 15/1/7.
-//  Copyright (c) 2015年 upyun.com. All rights reserved.
+//  Copyright (c) 2015年 tusdk.com. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -37,7 +37,9 @@
 /** 已下载文件列表 */
 @property (nonatomic, readonly) NSArray* downloadItems;
 
+
 /** 本地贴纸包 */
++ (instancetype)shared;
 + (instancetype)package;
 
 // 加载配置信息
@@ -205,5 +207,14 @@
  @since 3.0
  */
 - (BOOL)addStickerGroupFile:(NSString *)filePath;
+
+/**
+ * 将本地贴纸添加到 Package
+ * @param filePath 本地贴纸组文件
+ * @param master master
+ * @return true/false
+ * @since 4.1.0
+ */
+- (BOOL)addStickerGroupFile:(NSString *)filePath master:(NSString *)master;
 
 @end

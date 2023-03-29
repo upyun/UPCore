@@ -3,7 +3,7 @@
 //  TuSDKPulse
 //
 //  Created by tutu on 2020/8/14.
-//  Copyright © 2020 upyun.com. All rights reserved.
+//  Copyright © 2020 tusdk.com. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -51,6 +51,13 @@ NS_ASSUME_NONNULL_BEGIN
 - (BOOL) updateVideo:(NSString*)Id withPath:(NSString*) path andConfig:(TUPEvaReplaceConfig_ImageOrVideo*)config;
 
 - (BOOL) updateAudio:(NSString*)Id withPath:(NSString*) path andConfig:(TUPEvaReplaceConfig_Audio*)config;
+
+/**
+ * 混音更新
+ * @param weight 音量
+ * @return 是否更新成功
+ */
+- (BOOL)updateAudioMixWeight:(float)weight;
 
 
 - (TUPPlayer*) newPlayer;

@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by sprint on 04/06/2018.
-//  Copyright © 2018 upyun.com. All rights reserved.
+//  Copyright © 2018 tusdk.com. All rights reserved.
 //
 
 #import "TuSDKVideoImport.h"

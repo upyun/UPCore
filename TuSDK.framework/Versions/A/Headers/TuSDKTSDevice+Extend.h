@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Clear Hu on 14/10/28.
-//  Copyright (c) 2014年 upyun.com. All rights reserved.
+//  Copyright (c) 2014年 tusdk.com. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -89,11 +89,6 @@ typedef enum : NSUInteger {
     TuSDKDevicePlatform_iPhone13,
     TuSDKDevicePlatform_iPhone13_Pro,
     TuSDKDevicePlatform_iPhone13_Pro_Max,
-    TuDevicePlatform_iPhoneSE3,
-    TuDevicePlatform_iPhone14,
-    TuDevicePlatform_iPhone14_Plus,
-    TuDevicePlatform_iPhone14_Pro,
-    TuDevicePlatform_iPhone14_Pro_Max,
 
 
     // iPod touch

@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Clear Hu on 15/2/9.
-//  Copyright (c) 2015年 upyun.com. All rights reserved.
+//  Copyright (c) 2015年 tusdk.com. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -109,8 +109,6 @@ typedef NS_ENUM(NSInteger, TuTKComponentType) {
  *  数据统计
  *
  *  @param path 数据位置
- *
- *  @return path
  */
 + (void)initWithDataPath:(NSString *)path;
 

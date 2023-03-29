@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Jimmy Zhao on 16/10/11.
-//  Copyright © 2016年 upyun.com. All rights reserved.
+//  Copyright © 2016年 tusdk.com. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

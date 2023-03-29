@@ -3,8 +3,8 @@
 //  TuSDK
 //
 //  Created by Clear Hu on 14/10/25.
-//  Copyright (c) 2014年 upyun.com. All rights reserved.
-//   /image/api-core/
+//  Copyright (c) 2014年 tusdk.com. All rights reserved.
+//  https://tutucloud.com/docs/ios/image/api-core/
 //
 #import <Foundation/Foundation.h>
 
@@ -78,7 +78,7 @@
 #import <TuSDKPulseCore/UIKit/TuRegionHandler.h>
 #import <TuSDKPulseCore/UIKit/TuTSAnimation.h>
 #import <TuSDKPulseCore/UIKit/TuTSAsset.h>
-#import <TuSDKPulseCore/UIKit/TuTSVolumeButton.h>
+#import <TuSDKPulseCore/UIKit/TuVolumeButton.h>
 #import <TuSDKPulseCore/UIKit/TuWaterMarkOption.h>
 #import <TuSDKPulseCore/UIKit/TuTSMotion.h>
 

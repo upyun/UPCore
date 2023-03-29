@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Clear Hu on 14/10/26.
-//  Copyright (c) 2014年 upyun.com. All rights reserved.
+//  Copyright (c) 2014年 tusdk.com. All rights reserved.
 //
 
 #import "TuFilterOption.h"
@@ -53,6 +53,7 @@ extern NSString * const TTNormalFilterCode;
  *
  *  @return package 原生滤镜配置
  */
++ (instancetype)shared;
 + (instancetype)package;
 
 // 加载配置信息

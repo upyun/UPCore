@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Yanlin Qiu on 9/9/16.
-//  Copyright © 2016 upyun.com. All rights reserved.
+//  Copyright © 2016 tusdk.com. All rights reserved.
 //
 
 #import "TuSDKCPViewController.h"

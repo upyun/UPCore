@@ -3,7 +3,7 @@
 //  TuSDKVideo
 //
 //  Created by bqlin on 2018/8/7.
-//  Copyright © 2018年 upyun. All rights reserved.
+//  Copyright © 2018年 TuSDK. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

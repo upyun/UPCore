@@ -2,14 +2,14 @@
 //  TuSDKMediaCosmeticEffect.h
 //  TuSDKVideo
 //
-//  Created by upyun on 2020/10/14.
-//  Copyright © 2020 upyun. All rights reserved.
+//  Created by tusdk on 2020/10/14.
+//  Copyright © 2020 TuSDK. All rights reserved.
 //
 
 #import "TuSDKMediaEffectCore.h"
-//#import "TuSDKPFSticker.h"
-//#import "TuSDKCosmeticSticker.h"
-//#import "CosmeticTaskQueue.h"
+#import "TuSDKPFSticker.h"
+#import "TuSDKCosmeticSticker.h"
+#import "CosmeticTaskQueue.h"
 
 @interface TuSDKMediaCosmeticEffect : TuSDKMediaEffectCore
 

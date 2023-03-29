@@ -3,7 +3,7 @@
 //  TuSDKVideo
 //
 //  Created by KK on 2019/12/5.
-//  Copyright © 2019 upyun. All rights reserved.
+//  Copyright © 2019 TuSDK. All rights reserved.
 //
 
 #import "TuSDKMediaEffectCore.h"

@@ -3,7 +3,7 @@
 //  TuSDKVideo
 //
 //  Created by ligh  on 9/10/2018.
-//  Copyright © 2016 upyun. All rights reserved.
+//  Copyright © 2016 TuSDK. All rights reserved.
 //
 
 #import "TuSDKVideoImport.h"

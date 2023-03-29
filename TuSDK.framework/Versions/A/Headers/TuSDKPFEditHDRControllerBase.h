@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Yanlin Qiu on 13/04/2017.
-//  Copyright © 2017 upyun.com. All rights reserved.
+//  Copyright © 2017 tusdk.com. All rights reserved.
 //
 
 #import "TuSDKCPFilterResultController.h"

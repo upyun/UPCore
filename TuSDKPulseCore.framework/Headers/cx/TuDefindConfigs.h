@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by Clear Hu on 2020/4/22.
-//  Copyright © 2020 upyun.com. All rights reserved.
+//  Copyright © 2020 tusdk.com. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

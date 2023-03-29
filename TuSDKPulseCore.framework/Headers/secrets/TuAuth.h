@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by sprint on 2019/1/21.
-//  Copyright © 2019 upyun.com. All rights reserved.
+//  Copyright © 2019 tusdk.com. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

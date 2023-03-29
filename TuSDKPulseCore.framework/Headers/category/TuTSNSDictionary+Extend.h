@@ -3,14 +3,14 @@
 //  TuSDK
 //
 //  Created by Clear Hu on 15/3/23.
-//  Copyright (c) 2015年 upyun.com. All rights reserved.
+//  Copyright (c) 2015年 tusdk.com. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 
-extern NSString * const tuHttpHeader_Content_Disposition;
-extern NSString * const tuHttpHeader_Accept_Length;
-extern NSString * const tuHttpHeader_Content_Type;
+extern NSString * const lsqHttpHeader_Content_Disposition;
+extern NSString * const lsqHttpHeader_Accept_Length;
+extern NSString * const lsqHttpHeader_Content_Type;
 
 /**
  *  HTTP头解析

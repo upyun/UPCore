@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by tutu on 2019/5/27.
-//  Copyright © 2019 upyun.com. All rights reserved.
+//  Copyright © 2019 tusdk.com. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

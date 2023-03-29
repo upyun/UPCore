@@ -3,7 +3,7 @@
 //  TuSDK
 //
 //  Created by tutu on 2019/6/5.
-//  Copyright © 2019 upyun.com. All rights reserved.
+//  Copyright © 2019 tusdk.com. All rights reserved.
 //
 
 #ifndef TuSDKGPULiveTransitionFilterProtocol_h
